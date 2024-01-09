@@ -34,7 +34,7 @@ adPEAS consists of the following enumeration modules:
 ### Important Note about the BloodHound Module
 * adPEAS is currently using the SharpHound ingestor by [BloodHound Community Edition](https://github.com/SpecterOps/BloodHound). This ingestor will NOT work with the older versions of BloodHound.
 * Since more features are constantly added to BloodHound, the ingestor may be frequently updates as well to support more complex enumeration techniques. This repo will try to keep up with the newest versions.
-* Since the older version of BloodHound is still in use, a different fork (BloodHound-Old) will exist to cover their needs.
+* Since the older version of BloodHound is still in use, a different **branch** (BloodHound-Old) will exist to cover their needs.
 
 # Some How To Use Examples
 ## Simple usage with generic program parameters
